@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113.231" height="56" viewBox="0 0 113.231 56">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 -9.256)">
+    <g id="Layer_2-2" data-name="Layer 2" transform="translate(0 9.256)">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="Path_1" data-name="Path 1" d="M214.75,168.244V139.77l35.007-14.5M214.75,168.244l35.007-14.5V125.27" transform="translate(-179.743 -112.244)" fill="#016f94"/>
+        <path id="Path_2" data-name="Path 2" d="M0,125.27l35.007,14.508v28.465Zm0,0v28.474l35.007,14.5Z" transform="translate(0 -112.244)" fill="#032859"/>
+        <path id="Path_3" data-name="Path 3" d="M225.258,133.31l7.523.067-7.551,3.05m.037-4.305,7.525.067-7.5-3.184m7.525.067-7.525-.067,7.5,3.184m-7.486-4.372,7.523.067-7.5-3.184m7.523.067-7.523-.067,7.5,3.184m2.708.024,7.525.067-7.5-3.184m7.523.067-7.523-.067,7.5,3.184m-7.562,4.238,7.551-3.05-7.523-.067m9.924-4.217L245.424,128l7.552-3.05Z" transform="translate(-188.514 -111.767)" fill="#fe6a2c"/>
+        <path id="Path_4" data-name="Path 4" d="M226.095,45.36l7.5,3.184-7.523-.067m-.039,4.305,7.552-3.048-7.525-.068m7.525.068-7.552,3.048,7.523.067M226,57.087l7.552-3.048-7.523-.068m7.523.068L226,57.087l7.525.067m2.708.024,7.536-3.05-7.525-.067m7.525.067-7.548,3.05,7.525.067m-7.486-4.372,7.523.067-7.5-3.184m17.346,7.577-7.5-3.184-.028,3.117Z" transform="translate(-189.159 -45.36)" fill="#fe6a2c"/>
+      </g>
+      <text id="DIV" transform="translate(74.231 33.348)" fill="#032859" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DIV</tspan></text>
+      <text id="_3D_PRINT_" data-name="3D PRINT " transform="translate(76.269 38.343)" fill="#032859" font-size="3" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3D PRINT </tspan></text>
+    </g>
+  </g>
+</svg>

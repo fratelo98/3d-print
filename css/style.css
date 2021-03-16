@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+  /*header*/
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300');
+
+  @media only screen and (min-width: 1200px) {
+      .navbar-brand {
+        margin-right:;
+      }
+
+    }
+
+          
+    .navbar{background-color:rgba(0,0,0,.2)}
+    .top-nav-collapse{background-color:#1C2331}
+    
+.nav-link {
+  color:#032859!important;
+}
+  .nav-item { 
+    text-decoration:none!important;
+    display:inline-block;
+    padding:1px;
+    background-color:#ffffff;
+    border: 3px solid #032859;
+    font-size: 0.8rem;
+    text-transform:uppercase;
+    letter-spacing: .1rem;
+    transition:all 0.3s ease 0s;
+    transition-property: background-color, color; 
+    width: 115px;
+    height: 40px;
+    text-align:center;
+    margin-right:24px;
+    border-radius: 10px;
+    margin-bottom:3px;
+}
+
+.nav-item:hover{
+  color: #494949;
+  background-color: transparent;
+  border-radius: 50px;
+  border-color:#fe6a2c !important;
+  transition: all 0.3s ease 0s;
+
+}
+        
+
+
+    
+    
+    .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+
+      @media (min-width: 1200px) {
+        .container, .container-lg, .container-md, .container-sm, .container-xl{
+          max-width:1836px;
+        }
+      }
+
+      /*header*/
+
+
+
+
+
+      /* about section */
+
+      #about-section {
+        background:#032859;
+        overflow: hidden;
+      }
+      .img-fluid img{
+        width:1223px;
+        opacity: 1.4;
+      }
+      /* about section */
+
